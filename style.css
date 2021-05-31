@@ -1,0 +1,12 @@
+body {
+  font-family: "roboto", "sans-serif";
+}
+
+h4 {
+  padding-left: 10px;
+}
+
+.profile {
+  border-radius: 50%;
+  width: 150px;
+}
